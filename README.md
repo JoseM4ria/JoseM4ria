@@ -7,6 +7,7 @@ Skilled in application development, maintenance, and problem-solving, with a sol
 ![My Skills](https://skillicons.dev/icons?i=python,django,java,docker)
 
 ### 🛠️ Tools and Technologies:
+***
 ![My Skills](https://skillicons.dev/icons?i=pycharm,git,gitlab,postgresql,mysql)
 
 👥 Projects and Initiatives:
